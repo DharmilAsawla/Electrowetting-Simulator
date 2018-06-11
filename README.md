@@ -4,4 +4,4 @@ This is a "Game-Like" simulation of a lab on a chip demonstrating electrowetting
 
 Still under development.
 
-![Screenshot](electrowetting simulator.PNG)
+![Screenshot](https://github.com/DharmilAsawla/Electrowetting-Simulator/blob/master/electrowetting%20simulator.PNG)
